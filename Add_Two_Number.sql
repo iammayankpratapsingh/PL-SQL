@@ -1,3 +1,4 @@
+-- Add Two Number program in PL/SQL..
 set serveroutput on;
 declare
 var1 integer;
